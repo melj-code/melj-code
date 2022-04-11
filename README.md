@@ -7,7 +7,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently completing the CFG Software Engineer Nanodegree (you can find more details here: https://codefirstgirls.com/courses/cfgdegree/)
+- 🔭 I’m currently completing the CFG Software Nanodegree (you can find more details here: https://codefirstgirls.com/courses/cfgdegree/)
 - 🌱 I’m currently learning JavaScript👩🏿‍💻
 - 👯 I’m looking to collaborate on Progressive and Inspirational Projects 💡
 - 🤔 I’m looking for help with finding a mentor 👀
