@@ -17,6 +17,9 @@
   <a href="https://www.linkedin.com/in/mel-joseph/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://twitter.com/meljcode">
+    <img src="https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=white%22%20alt=%22twitter%20Badge"/>
+  </a>
 </div>
 
 
