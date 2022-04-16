@@ -20,6 +20,9 @@
     <a href="https://twitter.com/meljcode">
     <img src="https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=white%22%20alt=%22twitter%20Badge"/>
   </a>
+      <a href="https://medium.com/@meljcode">
+    <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white%22%20alt=%22twitter%20Badge"/>
+  </a>
 </div>
 
 
