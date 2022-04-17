@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently completing the CFG Software Degree (you can find more details here: https://codefirstgirls.com/courses/cfgdegree/)
-- 🌱 I’m currently learning JavaScript👩🏿‍💻
+- 🌱 I’m currently working on cleaning up and improving my projects... please bare with me 😅
 - 👯 I’m looking to collaborate on Progressive and Inspirational Projects 💡
 - 🤔 I’m looking for help with finding a mentor 👀
 - 💬 Ask me about Python, SQL 👩🏿‍💻
